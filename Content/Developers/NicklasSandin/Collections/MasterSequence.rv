@@ -19,7 +19,7 @@ sourceGroup000000 : RVSourceGroup (1)
 {
 	ui
 	{
-		string name = "TS1.avi"
+		string name = "TS11.avi"
 	}
 }
 
@@ -38,7 +38,7 @@ sourceGroup000000_source : RVFileSource (1)
 
 	media
 	{
-		string movie = "TS1.avi"
+		string movie = "TS11.avi"
 		string shot = ""
 	}
 }
@@ -47,7 +47,7 @@ sourceGroup000001 : RVSourceGroup (1)
 {
 	ui
 	{
-		string name = "TS2.avi"
+		string name = "TS10.avi"
 	}
 }
 
@@ -56,7 +56,7 @@ sourceGroup000001_source : RVFileSource (1)
 	cut
 	{
 		int in = 1
-		int out = 456
+		int out = 500
 	}
 
 	group
@@ -66,7 +66,7 @@ sourceGroup000001_source : RVFileSource (1)
 
 	media
 	{
-		string movie = "TS2.avi"
+		string movie = "TS10.avi"
 		string shot = ""
 	}
 }
@@ -84,7 +84,7 @@ sourceGroup000002_source : RVFileSource (1)
 	cut
 	{
 		int in = 1
-		int out = 385
+		int out = 353
 	}
 
 	group
@@ -103,7 +103,7 @@ sourceGroup000003 : RVSourceGroup (1)
 {
 	ui
 	{
-		string name = "TS4.avi"
+		string name = "TS6.avi"
 	}
 }
 
@@ -112,63 +112,7 @@ sourceGroup000003_source : RVFileSource (1)
 	cut
 	{
 		int in = 1
-		int out = 206
-	}
-
-	group
-	{
-		int noMovieAudio = 1
-	}
-
-	media
-	{
-		string movie = "TS4.avi"
-		string shot = ""
-	}
-}
-
-sourceGroup000004 : RVSourceGroup (1)
-{
-	ui
-	{
-		string name = "TS5.avi"
-	}
-}
-
-sourceGroup000004_source : RVFileSource (1)
-{
-	cut
-	{
-		int in = 1
-		int out = 259
-	}
-
-	group
-	{
-		int noMovieAudio = 1
-	}
-
-	media
-	{
-		string movie = "TS5.avi"
-		string shot = ""
-	}
-}
-
-sourceGroup000005 : RVSourceGroup (1)
-{
-	ui
-	{
-		string name = "TS6.avi"
-	}
-}
-
-sourceGroup000005_source : RVFileSource (1)
-{
-	cut
-	{
-		int in = 1
-		int out = 387
+		int out = 228
 	}
 
 	group
@@ -183,15 +127,15 @@ sourceGroup000005_source : RVFileSource (1)
 	}
 }
 
-sourceGroup000006 : RVSourceGroup (1)
+sourceGroup000004 : RVSourceGroup (1)
 {
 	ui
 	{
-		string name = "TS7.avi"
+		string name = "TS1.avi"
 	}
 }
 
-sourceGroup000006_source : RVFileSource (1)
+sourceGroup000004_source : RVFileSource (1)
 {
 	cut
 	{
@@ -206,63 +150,7 @@ sourceGroup000006_source : RVFileSource (1)
 
 	media
 	{
-		string movie = "TS7.avi"
-		string shot = ""
-	}
-}
-
-sourceGroup000007 : RVSourceGroup (1)
-{
-	ui
-	{
-		string name = "TS8.avi"
-	}
-}
-
-sourceGroup000007_source : RVFileSource (1)
-{
-	cut
-	{
-		int in = 1
-		int out = 500
-	}
-
-	group
-	{
-		int noMovieAudio = 1
-	}
-
-	media
-	{
-		string movie = "TS8.avi"
-		string shot = ""
-	}
-}
-
-sourceGroup000008 : RVSourceGroup (1)
-{
-	ui
-	{
-		string name = "TS9.avi"
-	}
-}
-
-sourceGroup000008_source : RVFileSource (1)
-{
-	cut
-	{
-		int in = 1
-		int out = 600
-	}
-
-	group
-	{
-		int noMovieAudio = 1
-	}
-
-	media
-	{
-		string movie = "TS9.avi"
+		string movie = "TS1.avi"
 		string shot = ""
 	}
 }
