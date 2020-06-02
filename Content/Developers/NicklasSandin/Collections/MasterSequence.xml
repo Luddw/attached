@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmeml version="4">
+	<project>
+		<name>MasterSequenceProject</name>
+		<children>
+			<clip id="masterclip-1">
+				<masterclipid>masterclip-1</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>500</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>500</out>
+				<name>TS11</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-1">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>TS11</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>500</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>TS11.avi</name>
+									<pathurl>file://localhost/C%3a/Users/Nicklas%20Sandin/Documents/GitHub/Attached/Content/Developers/NicklasSandin/Collections/TS11.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>500</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Trailer/Version2/MasterSequence.MasterSequence:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_2][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>500</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>500</out>
+				<name>TS10</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>TS10</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>500</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>TS10.avi</name>
+									<pathurl>file://localhost/C%3a/Users/Nicklas%20Sandin/Documents/GitHub/Attached/Content/Developers/NicklasSandin/Collections/TS10.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>500</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Trailer/Version2/MasterSequence.MasterSequence:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_0][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-3">
+				<masterclipid>masterclip-3</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>353</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>353</out>
+				<name>TS3</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>TS3</name>
+								<enabled>TRUE</enabled>
+								<duration>353</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>353</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-3">
+									<name>TS3.avi</name>
+									<pathurl>file://localhost/C%3a/Users/Nicklas%20Sandin/Documents/GitHub/Attached/Content/Developers/NicklasSandin/Collections/TS3.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>353</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Trailer/Version2/MasterSequence.MasterSequence:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_10][UE4ShotStartOffset=147][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-4">
+				<masterclipid>masterclip-4</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>228</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>228</out>
+				<name>TS6</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>TS6</name>
+								<enabled>TRUE</enabled>
+								<duration>228</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>228</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-4">
+									<name>TS6.avi</name>
+									<pathurl>file://localhost/C%3a/Users/Nicklas%20Sandin/Documents/GitHub/Attached/Content/Developers/NicklasSandin/Collections/TS6.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>228</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Trailer/Version2/MasterSequence.MasterSequence:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_17][UE4ShotStartOffset=179][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-5">
+				<masterclipid>masterclip-5</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>500</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>500</out>
+				<name>TS1</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>TS1</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>500</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-5">
+									<name>TS1.avi</name>
+									<pathurl>file://localhost/C%3a/Users/Nicklas%20Sandin/Documents/GitHub/Attached/Content/Developers/NicklasSandin/Collections/TS1.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>500</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Trailer/Version2/MasterSequence.MasterSequence:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_1][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<sequence id="sequence-1">
+				<duration>4901</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<name>MasterSequence</name>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<width>1280</width>
+								<height>720</height>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="clipitem-6">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>TS11</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>500</end>
+								<in>1</in>
+								<out>500</out>
+								<file id="file-1" />
+							</clipitem>
+							<clipitem id="clipitem-7">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>TS10</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>500</start>
+								<end>1000</end>
+								<in>1</in>
+								<out>500</out>
+								<file id="file-2" />
+							</clipitem>
+							<clipitem id="clipitem-8">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>TS3</name>
+								<enabled>TRUE</enabled>
+								<duration>353</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>1000</start>
+								<end>1353</end>
+								<in>1</in>
+								<out>353</out>
+								<file id="file-3" />
+							</clipitem>
+							<clipitem id="clipitem-9">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>TS6</name>
+								<enabled>TRUE</enabled>
+								<duration>228</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>1353</start>
+								<end>1581</end>
+								<in>1</in>
+								<out>228</out>
+								<file id="file-4" />
+							</clipitem>
+							<clipitem id="clipitem-10">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>TS1</name>
+								<enabled>TRUE</enabled>
+								<duration>500</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>1581</start>
+								<end>2081</end>
+								<in>1</in>
+								<out>500</out>
+								<file id="file-5" />
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</video>
+					<audio>
+						<numOutputChannels>1</numOutputChannels>
+						<format>
+							<samplecharacteristics>
+								<depth>16</depth>
+								<samplerate>44100</samplerate>
+							</samplecharacteristics>
+						</format>
+						<outputs>
+							<group>
+								<index>1</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>1</index>
+								</channel>
+							</group>
+						</outputs>
+					</audio>
+				</media>
+				<timecode>
+					<rate>
+						<timebase>30</timebase>
+						<ntsc>FALSE</ntsc>
+					</rate>
+					<string>00:00:00:00</string>
+					<frame>0</frame>
+				</timecode>
+			</sequence>
+		</children>
+	</project>
+</xmeml>
